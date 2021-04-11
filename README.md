@@ -1,6 +1,6 @@
-# tajny-kod-s3jnjd
+# Secret Code App
 
-Secret Code App
+The app takes value from the buttons which are clicked and show when the save button is clicked
 
 ### Built with
 
